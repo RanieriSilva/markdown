@@ -1,34 +1,42 @@
 # Markdown
-
-## Headers
+headers
 # H1
 ## H2
 ### H3
 #### H4
 ##### H5
 
-## Comentários
-<!-- Comentário válido -->
-
----
+Comentários
+<!----- DIVIDER -----> 
 
 *ENFASE NO TEXTO*
 
 **Strong**
 
-_Itálico_
+_Italico_
 
-## Listas
 1. Item 1 (Lista ordenada)
 - Item 1 (Lista não ordenada)
-- [x] Checkbox marcado
-- [ ] Checkbox não marcado
+- [x] (Checkbox)
 
-## Citações
-> Citação
->> Citação alinhada
+> citação
+>> citação alinhada
 
-## Código Inline
-`sudo apt-get install`
+Inline code `sudo apt-get install`
 
-## Bloco de Código
+```
+Mais de uma linha
+```
+
+Tabela
+| NAME | DATE |
+| - | - |
+| A | 20/02/2024|
+
+[Link para algum lugar](http://github.com "titulo do link")
+![imagem de algo](link da imagem.png)
+
+emoji :smiley:
+
+
+
