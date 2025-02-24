@@ -1,42 +1,45 @@
 # Markdown
-headers
+
+## Headers
 # H1
 ## H2
 ### H3
 #### H4
 ##### H5
 
-Comentários
+## Comentários
 <!----- DIVIDER -----> 
 
-*ENFASE NO TEXTO*
+*Meu Nome é Ranieri, este é meu primeiro markdown*
 
 **Strong**
 
-_Italico_
+_Itálico_
 
+## Listas
 1. Item 1 (Lista ordenada)
 - Item 1 (Lista não ordenada)
 - [x] (Checkbox)
 
-> citação
+## Citação
+> citação  
 >> citação alinhada
 
-Inline code `sudo apt-get install`
+## Código Inline
+`sudo apt-get install`
 
-```
-Mais de uma linha
-```
+## Bloco de Código
 
-Tabela
+## Tabela
 | NAME | DATE |
 | - | - |
-| A | 20/02/2024|
+| A | 20/02/2024 |
 
-[Link para algum lugar](http://github.com "titulo do link")
-![imagem de algo](link da imagem.png)
+## Link
+[Link para algum lugar](http://github.com "Link para o github")
 
-emoji :smiley:
+## Imagem do Pikachu  
+![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
 
-
-
+## Emoji
+:smiley:
